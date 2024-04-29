@@ -17,6 +17,7 @@ def decrypted(txt,s):
         else:
             decrypted_text += char
     return decrypted_text
+
 # elsencrypt
 key = 3
 result = encrypt(txt,key)
