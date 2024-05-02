@@ -60,7 +60,7 @@
 | 54 | Autoclave Cipher                            | https://www.dcode.fr/autoclave-cipher            |
 | 55 | Bazeries Cipher                             | https://www.dcode.fr/bazeries-cipher             |
 | 56 | Beaufort Cipher                             | https://www.dcode.fr/beaufort-cipher             |
-| 57 | Chaocipher https://www.dcode.fr/chao-cipher |
+| 57 | Chaocipher                                  |https://www.dcode.fr/chao-cipher|
 | 58 | Gravity Falls Bill Cipher                   | https://www.dcode.fr/gravity-falls-bill-cipher   |
 | 59 | Gronsfeld Cipher                            | https://dcode.fr/gronsfeld-cipher                |
 | 60 | Hill Cipher                                 | https://www.dcode.fr/hill-cipher                 |
