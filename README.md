@@ -1,6 +1,6 @@
-###  Axborotni himoyalash
+#  Axborotni himoyalash
 
-## Kriptografik usullarni
+### Kriptografik usullarni
 
 | №                                              | Shifrlash usuli                             | Shifrlash usuli o’rganish uchun manba |
 |------------------------------------------------|---------------------------------------------|---------------------------------------|
