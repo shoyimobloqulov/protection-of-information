@@ -18,7 +18,7 @@ def bazeries_cipher(s, key):
     
     return sm
 
-s = "Uzbekistan"
-key = "salom"
+s = "craelca sno cneic ie llausus hty ngise fo memdaba yro"
+key = "SEVENTHOUSANDTHREEHUNDREDANDFIFTYTWO"
 x = bazeries_cipher(s, key)
 print("Shifrlangan matn:", x)
