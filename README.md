@@ -29,7 +29,7 @@
 | 23                                             | Spiral Cipher                               | https://www.dcode.fr/spiral-cipher               |
 | 24                                             | Transposition Cipher                        | https://www.dcode.fr/transposition-cipher        |
 | 25                                             | Turning Grille                              | https://www.dcode.fr/turning-grille-cipher       |
-| 26                                             | Mexican Army Cipher Wheel                   | https://www.dcode.fr/mexican-army-cipher￾wheel   |
+| 26                                             | Mexican Army Cipher Wheel                   | https://www.dcode.fr/mexican-army-cipher-wheel   |
 | 27                                             | Homophonic Cipher                           | https://www.dcode.fr/homophonic-cipher           |
 | 28                                             | Book Cipher                                 | https://www.dcode.fr/book-cipher                 |
 | 29                                             | Shankar Speech Defect (Q&A)                 | https://www.dcode.fr/shankar-speech-defect       |
@@ -54,7 +54,7 @@
 | 48                                             | Codons (Genetic Code)                       | https://www.dcode.fr/codons-genetic-code         |
 | 49                                             | Bazeries Cipher                             | https://www.dcode.fr/bazeries-cipher             |
 | 50                                             | Circular Bit Shift                          | https://www.dcode.fr/circular-bit-shift          |
-| 51 | Diffie-Hellman Key  Exchange                | https://www.dcode.fr/diffie-hellman-key￾exchange |
+| 51 | Diffie-Hellman Key  Exchange                | https://www.dcode.fr/diffie-hellman-key-exchange |
 | 52 | Alberti Cipher                              | https://www.dcode.fr/alberti-cipher              |
 | 53 | Alphabetical Ranks Added                    | https://www.dcode.fr/alphabetical-ranks-added    |
 | 54 | Autoclave Cipher                            | https://www.dcode.fr/autoclave-cipher            |
@@ -78,14 +78,14 @@
 | 72 | Spiral Cipher                               | https://www.dcode.fr/spiral-cipher               |
 | 73 | Transposition Cipher                        | https://www.dcode.fr/transposition-cipher        |
 | 74 | Turning Grille                              | https://www.dcode.fr/turning-grille-cipher       |
-| 75 | Mexican Army Cipher  Wheel                  | https://www.dcode.fr/mexican-army-cipher￾wheel   |
+| 75 | Mexican Army Cipher  Wheel                  | https://www.dcode.fr/mexican-army-cipher-wheel   |
 | 76 | Homophonic Cipher                           | https://www.dcode.fr/homophonic-cipher           |
 | 77 | Book Cipher                                 | https://www.dcode.fr/book-cipher                 |
 | 78 | Shankar Speech Defect (Q&A)                 | https://www.dcode.fr/shankar-speech-defect       |
 | 79 | Wolseley Cipher                             | https://www.dcode.fr/wolseley-cipher             |
 | 80 | Four Square Cipher                          | https://www.dcode.fr/four-squares-cipher         |
 | 81 | Circular Bit Shift                          | https://www.dcode.fr/circular-bit-shift          |
-| 82 | Diffie-Hellman Key  Exchange                | https://www.dcode.fr/diffie-hellman-key￾exchange |
+| 82 | Diffie-Hellman Key  Exchange                | https://www.dcode.fr/diffie-hellman-key-exchange |
 | 83 | Alberti Cipher                              | https://www.dcode.fr/alberti-cipher              |
 | 84 | Alphabetical Ranks Added                    | https://www.dcode.fr/alphabetical-ranks-added    |
 | 85 | Autoclave Cipher                            | https://www.dcode.fr/autoclave-cipher            |
