@@ -2,14 +2,14 @@
 
 ### Kriptografik usullarni
 
-| №                                              | Shifrlash usuli                             | Shifrlash usuli o’rganish uchun manba            | Kodi bilan tanishish |
-|------------------------------------------------|---------------------------------------------|--------------------------------------------------|----------------------|
-| 1                                              | Circular Bit Shift                          |https://www.dcode.fr/circular-bit-shift           | <a href="#">Ko'rish<a>
-| 2                                              | Diffie-Hellman Key Exchange                 | https://www.dcode.fr/diffie-hellman-key￾exchange |
-| 3                                              | Alberti Cipher                              | https://www.dcode.fr/alberti-cipher              |
-| 4                                              | Alphabetical Ranks Added                    | https://www.dcode.fr/alphabetical-ranks-added    |
-| 5                                              | Autoclave Cipher                            | https://www.dcode.fr/autoclave-cipher            |
-| 6                                              | Bazeries Cipher                             | https://www.dcode.fr/bazeries-cipher             |
+| № | Shifrlash usuli | Shifrlash usuli o’rganish uchun manba|
+|--------|---------------------------------------------|--------------------------------------------------|
+| 1  | Circular Bit Shift | https://www.dcode.fr/circular-bit-shift           |
+| 2  | Diffie-Hellman Key Exchange  | https://www.dcode.fr/diffie-hellman-key-exchange |
+| 3  | Alberti Cipher | https://www.dcode.fr/alberti-cipher              |
+| 4  | Alphabetical Ranks Added  | https://www.dcode.fr/alphabetical-ranks-added    |
+| 5 | Autoclave Cipher  | https://www.dcode.fr/autoclave-cipher            |
+| 6 | Bazeries Cipher  | https://www.dcode.fr/bazeries-cipher             |
 | 7                                              | Beaufort Cipher                             | https://www.dcode.fr/beaufort-cipher             |
 | 8                                              | Chaocipher                                  | https://www.dcode.fr/chao-cipher                 |  
 | 9                                              | Gravity Falls Bill Cipher                   | https://www.dcode.fr/gravity-falls-bill-cipher   |
